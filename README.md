@@ -1,2 +1,3 @@
 # CRUD_Api_practice
-### Use npm run nodemon to start server with nodemon
+### Use `npm start` to start server
+### Use `npm run nodemon` to start server with nodemon
